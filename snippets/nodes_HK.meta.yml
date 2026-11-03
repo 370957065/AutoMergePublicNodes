@@ -1,16 +1,5 @@
 proxies:
-- client-fingerprint: chrome
-  encryption: none
-  name: 🇭🇰[www.v2nodes.com] vless-HK-1...
-  network: tcp
-  port: 31884
-  server: 152.175.6.229
-  servername: hk010.zestapp778.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: e9a8144e-5237-488a-afb1-9ca3d8d54c80
-- name: '🇭🇰[www.v2nodes.com] vless-HK-1... #1'
+- name: 🇭🇰[www.v2nodes.com] vless-HK-1...
   network: ws
   port: 1443
   server: 38.76.180.144
@@ -23,7 +12,7 @@ proxies:
     path: /vless-ws
 - client-fingerprint: chrome
   encryption: none
-  name: '🇭🇰[www.v2nodes.com] vless-HK-1... #2'
+  name: '🇭🇰[www.v2nodes.com] vless-HK-1... #1'
   network: ws
   port: 443
   server: px2.5ibtc.cn

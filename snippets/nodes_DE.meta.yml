@@ -9,6 +9,15 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 🍪42@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: 7kydvvvn3bwt66ff
+  password: ripa841juk7gwn4t
+  port: 10005
+  server: 31.76.241.169
+  sni: de.c0d1xdev.xyz
+  tls: false
+  type: hysteria2
 - client-fingerprint: unsafe
   encryption: none
   name: '🇩🇪[www.v2nodes.com] vless-DE-1... #3'
@@ -39,7 +48,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: chrome
-  name: '🇩🇪[www.v2nodes.com] vless-DE-1... #7'
+  name: '🇩🇪[www.v2nodes.com] vless-DE-1... #8'
   network: ws
   port: 465
   server: hw14.roghanmo.com
@@ -55,12 +64,6 @@ proxies:
   password: happybirthdaydaniel
   port: 25267
   server: de-bots4.h1cloud.net
-  type: trojan
-- name: '🇩🇪[www.v2nodes.com] trojan-DE-... #4'
-  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-  port: 443
-  server: 193.108.119.15
-  sni: courses.iloverussia2026.com
   type: trojan
 - name: 🇩🇪 德国 | DEU
   network: ws
